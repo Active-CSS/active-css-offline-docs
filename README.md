@@ -1,6 +1,6 @@
 # Active CSS Offline Documentation
 
-<p>Download the fully Active CSS documentation as an offline SPA. You could do this if you want to keep a specific version of the website after a release for reference purposes.</p>
+<p>Here you can download the Active CSS documentation as an offline SPA. You could do this if you want to keep a specific version of the website after a release for reference purposes.</p>
 
 <p>It is a fully navigable offline version of the website, including the code editor and the search functionality. The only things that won't work are the examples that use ajax requests, as XHR requests will not work in a file:// environment per the offline CORS policies, and the separate websites for the results of the PHP tutorial which would need PHP to work. Also, the code editor example code isn't editable at all, but then it isn't editable on the live site either.</p>
 
