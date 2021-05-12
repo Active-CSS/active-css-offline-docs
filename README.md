@@ -1,2 +1,4 @@
-# active-css-offline-docs
-Download the fully Active CSS documentation as an offline SPA.
+# Active CSS Offline Documentation
+
+<p>Download the fully Active CSS documentation as an offline SPA.</p>
+
