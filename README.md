@@ -2,7 +2,7 @@
 
 <p>Here you can download the Active CSS documentation as an offline SPA. You can do this if you want to keep a specific version of the website for reference purposes.</p>
 
-<p>It is a fully navigable offline version of the website, including the code editor and the search functionality. The only things that won't work are the examples that use ajax requests or that require a PHP back-end</p>
+<p>It is a fully navigable offline version of the website, including the code editor and the search functionality. The only things that won't work are the examples that use ajax requests or that require a PHP back-end.</p>
 
 <p>You can either go to the main documentation website and download from there:
 https://activecss.org/docs-download.html</p>
